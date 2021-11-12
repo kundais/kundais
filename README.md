@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kundai 
 - 👀 I’m interested in Front-End web dev 
-- 🌱 I’m currently learning javascript 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me... you can dm on twitter or email me: kundais745@gmail.com
 
 <!---
